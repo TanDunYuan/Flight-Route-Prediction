@@ -17,5 +17,4 @@ The dataset provided in this project is from a historical flight trajectory from
 This project is a demonstration of the capability of machine learning in the field of route prediction.
 It is a simplified model of a true route prediction model as the inputs are limited. However it can identify the typical routes flown by certain aircraft of a certain company which can be used to show the company's tradeoff between air navigation charges versus the flight time. 
 This project is part of a personal project to understand the mechanics behind machine learning in a real world application. 
-lol
 
